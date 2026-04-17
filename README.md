@@ -1,3 +1,7 @@
+## Multimodal analysis pipeline
+
+![Pipeline](./assets/workflow.png)
+
 The code was originally tailored for the specific dataset used in the Master's thesis, so it may contain dataset specific hard-coded values, such as file name assumptions.
 
 The pipeline consists of different stages/scripts that should be run in a certain order.
