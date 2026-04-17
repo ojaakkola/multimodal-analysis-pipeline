@@ -1,0 +1,7 @@
+testikuvat
+histoencoder_env
+**/*.log
+**/*.txt
+**/*.tsv
+**/__pycache__
+**/histoqc_output*
