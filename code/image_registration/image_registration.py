@@ -6,8 +6,6 @@ import csv
 import argparse
 from pathlib import Path
 
-# testiaja vielä!
-# result_folders palauttaa aina NONE !!!
 
 def result_folders(samplenumbers, project_folder, rotation_csv_path, group, input_base_path):    
 
